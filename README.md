@@ -5,7 +5,7 @@ Plants Seedling Classification
 - Repository includes Jupyter notebook with Python code written for data analysis and model building
   
 ## Problem Statement
-- To identify the plant seedlings species from 12 different species using a convolutional neural network
+- To identify the plant seedlings species from 12 different species using a CNN
 
 ## Skills and Tools
 - Image processing
