@@ -8,9 +8,7 @@ Plants Seedling Classification
 - To identify the plant seedlings species from 12 different species using a CNN
 
 ## Skills and Tools
-- Text processing
-- Vectorization
--   Count vectorizer
--   Tf-idf vectorizer
-- Sentiment analysis
-- Parameter tuning
+- Image processing
+- Computer Vision
+- Keras
+- Convolutional Neural Networks (CNN)
